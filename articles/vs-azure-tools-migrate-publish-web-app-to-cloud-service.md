@@ -15,7 +15,7 @@ ms.author: ghogen
 ---
 # How to: Migrate and Publish a Web Application to an Azure Cloud Service from Visual Studio
 
-To take advantage of the hosting services and scaling ability of Azure, you might want to migrate and deploy your web application to an Azure cloud service. Only minimal changes are required. This article covers deploying to cloud services only; for App Service, see [Deploy a web app in Azure App Service](app-service/app-service-deploy-local-git.md).
+To take advantage of the hosting services and scaling ability of Azure, you might want to migrate and deploy your web application to an Azure cloud service. Only minimal changes are required. This article covers deploying to cloud services only; for App Service, see [Migrate your .NET web app or service to Azure App Service](https://docs.microsoft.com/en-us/dotnet/azure/dotnet-howto-migrate-app-service?view=azure-dotnet).
 
 > [!Important]
 > This migration is supported only for the specific ASP.NET, Silverlight, WCF, and WCF Workflow projects. It is not supported for ASP.NET Core projects. See [Supported Project Templates](#supported-project-templates).
